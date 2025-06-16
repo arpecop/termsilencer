@@ -1,4 +1,8 @@
-### Smart `Ctrl+W` in Ghostty with Tmux
+
+
+<p style="text-align: center"><img src="https://raw.githubusercontent.com/arpecop/termsilencer/refs/heads/main/11x-removebg-preview.png"></p>
+
+### Smart `Ctrl+W` in Terminals with Tmux
 
 Tired of annoying confirmation dialogs when trying to close a terminal tab with running processes? Default terminal emulator behavior, even in Ghostty or iTerm2, often presents a clumsy 'Confirm close?' popup if anything is active. This configuration eliminates that friction, making your `Ctrl+W` key truly smart and context-aware.
 
